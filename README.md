@@ -17,7 +17,11 @@ Menyediakan data dan infografis terkait pengelolaan dan jumlah limbah di Indones
 - /css/styles.css: gaya tampilan untuk seluruh website
 - /js/script.js: skrip JavaScript untuk fitur yang interaktif
 - /limbahpeta.html: halaman dengan peta
-- /standarisasi.html: halaman untuk menganalisa limbah
+- /identifikasi.html: halaman identifikasi limbah B3
 - /css/styles2.css: gaya tampilan untuk tampilan website analisa limbah
 - /js/script2.js: skrip JavaScript untuk fitur yang interaktif pada website analisa limbah
+- /aboutus.html: halaman yang berisi anggota-anggota yang berkontribusi dalam perancangan dan pembuatan website
+- /aboutstyle.css: gaya tampilan untuk website about us
+- /aboutscript.js: skrip JavaScript untuk fitur interaktif pada website abous us
+- google form: survei mengenai limbah B3 dan NFPA 704
 - beberapa foto untuk mendukung visualisasi pada website
